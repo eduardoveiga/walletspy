@@ -1,18 +1,7 @@
 [
 	{
-		"coin":"bitcoin",
-		"address":""
-	},
-	
-	
-	{
-		"coin":"eth",
-		"address":""
-	},
-	
-	{
-		"coin":"bitcoin-cash",
-		"address":""
+		"coin":"xrb",
+		"address":"xrb_14qixw83oacrqfdas1k5qp4sx6gnw8fzj7d5g6n1ex6jph8aforjitmyke1u"
 	}
 
 
